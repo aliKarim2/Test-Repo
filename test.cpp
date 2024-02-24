@@ -4,7 +4,7 @@
 
 int main(){
 
-    std::cout << "Program Terminated";
+    std::cout << " Terminated";
 
   return 0;
 }
